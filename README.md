@@ -18,7 +18,7 @@
 
 * ##NEW GAME
 
-* #NEW WORD = _ _ _ h _ _
+* #NEW WORD = _ _ t h _ _
 * # WRONG GUESS = a
 ik raad een a
 
