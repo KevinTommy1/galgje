@@ -27,3 +27,5 @@ ik raad een h
 ik raad een t 
 
 ik raad een i 
+
+ik raad een n 
