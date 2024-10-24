@@ -14,7 +14,10 @@
 ## Beurten
 * ik raad een w
 * ik raad een y (niet goed)
+* 
 
 * ##NEW GAME
 
 * #NEW WORD = _ _ _ _ _ _
+ik raad een a
+
