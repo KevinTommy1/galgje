@@ -17,4 +17,4 @@
 
 * ##NEW GAME
 
-* #NEW WORDS = _ _ _ _ _ _
+* #NEW WORD = _ _ _ _ _ _
