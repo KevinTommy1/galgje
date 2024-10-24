@@ -20,6 +20,7 @@
 
 * #NEW WORD = _ i t h _ _
 * # WRONG GUESS = a n r l w K
+* ## CORRECT WORD WAS: GITHUB
 ik raad een a
 
 ik raad een h  
