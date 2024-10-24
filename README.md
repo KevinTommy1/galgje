@@ -16,3 +16,5 @@
 * ik raad een y (niet goed)
 
 * ##NEW GAME
+
+* #NEW WORDS = _ _ _ _ _ _
