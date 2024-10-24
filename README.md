@@ -33,3 +33,5 @@ ik raad een n
 ik raad een r 
 
 ik raad een l 
+
+ik raad een w 
