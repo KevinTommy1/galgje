@@ -9,7 +9,7 @@
 |1|2|3|4|5|6|7|
 
 ## Score
-![gallow](./images/3.png)
+![gallow](./images/4.png)
 
 ## Beurten
 * ik raad een w
@@ -19,7 +19,7 @@
 * ##NEW GAME
 
 * #NEW WORD = _ i t h _ _
-* # WRONG GUESS = a n
+* # WRONG GUESS = a n r
 ik raad een a
 
 ik raad een h  
